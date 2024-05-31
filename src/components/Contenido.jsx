@@ -14,7 +14,7 @@ const Contenido = () => {
         </div>
       <img className="w-full h-auto" src="./public/Marcas.png" alt="" />
       </div>
-      <div className="contenido__derecha hidden lg:block"><img className=" lg:w-[550px] h-auto" src="./public/persona_escalera.png" alt="" /></div>
+      <div className="contenido__derecha hidden lg:block"><img className=" lg:w-[550px] h-auto" src="./persona_escalera.png" alt="" /></div>
     </div>
   );
 };

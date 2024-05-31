@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <nav className='flex justify-between w-full h-auto px-[16px] py-[20px] lg:p-[32px]'>
         <div className='flex justify-between items-center gap-[20px]'>
-        <img className='w-[52px] h-[52px]  ' src="./public/Logo.png" alt="" />
+        <img className='w-[52px] h-[52px]  ' src="./Logo.png" alt="" />
         <ul className='lg:flex gap-[40px] hidden'>
             <li>About US</li>
             <li>How it work</li>
