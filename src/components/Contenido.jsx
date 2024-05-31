@@ -12,7 +12,7 @@ const Contenido = () => {
             <input className="w-auto grow h-[52px]" type="text" />
             <button className="w-[144px] h-[52px] bg-[#151515] text-white px-[20px] py-[14px]">Get Started</button>
         </div>
-      <img className="w-full h-auto" src="./public/Marcas.png" alt="" />
+      <img className="w-full h-auto" src="./Marcas.png" alt="" />
       </div>
       <div className="contenido__derecha hidden lg:block"><img className=" lg:w-[550px] h-auto" src="./persona_escalera.png" alt="" /></div>
     </div>
